@@ -14,6 +14,8 @@
 		454C587621216F30008E2F2A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 454C587421216F30008E2F2A /* LaunchScreen.storyboard */; };
 		454C587F212174EC008E2F2A /* demoVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 454C587D212174EC008E2F2A /* demoVC.swift */; };
 		454C5880212174EC008E2F2A /* demoVC.xib in Resources */ = {isa = PBXBuildFile; fileRef = 454C587E212174EC008E2F2A /* demoVC.xib */; };
+		454C588321217AC5008E2F2A /* deleteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 454C588121217AC5008E2F2A /* deleteViewController.swift */; };
+		454C588421217AC5008E2F2A /* deleteViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 454C588221217AC5008E2F2A /* deleteViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		454C587721216F30008E2F2A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		454C587D212174EC008E2F2A /* demoVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = demoVC.swift; sourceTree = "<group>"; };
 		454C587E212174EC008E2F2A /* demoVC.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = demoVC.xib; sourceTree = "<group>"; };
+		454C588121217AC5008E2F2A /* deleteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = deleteViewController.swift; sourceTree = "<group>"; };
+		454C588221217AC5008E2F2A /* deleteViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = deleteViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				454C586B21216F2E008E2F2A /* AppDelegate.swift */,
 				454C586D21216F2E008E2F2A /* ViewController.swift */,
 				454C587D212174EC008E2F2A /* demoVC.swift */,
+				454C588121217AC5008E2F2A /* deleteViewController.swift */,
+				454C588221217AC5008E2F2A /* deleteViewController.xib */,
 				454C587E212174EC008E2F2A /* demoVC.xib */,
 				454C586F21216F2E008E2F2A /* Main.storyboard */,
 				454C587221216F30008E2F2A /* Assets.xcassets */,
@@ -130,6 +136,7 @@
 			files = (
 				454C587621216F30008E2F2A /* LaunchScreen.storyboard in Resources */,
 				454C5880212174EC008E2F2A /* demoVC.xib in Resources */,
+				454C588421217AC5008E2F2A /* deleteViewController.xib in Resources */,
 				454C587321216F30008E2F2A /* Assets.xcassets in Resources */,
 				454C587121216F2E008E2F2A /* Main.storyboard in Resources */,
 			);
@@ -145,6 +152,7 @@
 				454C586E21216F2E008E2F2A /* ViewController.swift in Sources */,
 				454C586C21216F2E008E2F2A /* AppDelegate.swift in Sources */,
 				454C587F212174EC008E2F2A /* demoVC.swift in Sources */,
+				454C588321217AC5008E2F2A /* deleteViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
